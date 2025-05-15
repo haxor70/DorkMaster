@@ -2,5 +2,5 @@
 UHQ Dork Gen Tool Combo Making Method with Patterns!!
 
 
-![Uploading image.png…]()
 
+![Uploading 1533002.jpg…]()
