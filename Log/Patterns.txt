@@ -1,0 +1,11 @@
+(KW).(PF)?(PT)=
+(KW).(PF)?(PT)= (NB)
+(SF).(PF)?(PT) + (KW)
+(SF) (KW).(PF)?(PT)=
+(SF) =(KW).(PF)?(PT)=
+(SF) (KW).(PF)?(PT)= (NB)
+(SF) (KW) + .(PF)?(PT)=
+(SF) (KW) + .(PF)?(PT)= (NB)
+(SF) (KW).(PF)?(PT)=
+(KW).(PF)?(PT)= (NB)
+(NB)= (KW) + .(PF)?(PT)=
